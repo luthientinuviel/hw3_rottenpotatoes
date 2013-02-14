@@ -21,7 +21,7 @@ module NavigationHelpers
 		
 		#Given /^(?:|I )am on (.+)$/ do |page_name|
 	  #visit path_to(page_name)
-		#end
+		#	end
     
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
